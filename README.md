@@ -1,5 +1,5 @@
-# KitGum
-KitGum is an easy to use, powerful and modular web Enterprise Management System built with Codeigniter 4.
+# KitGum CMS
+KitGum CMS is an easy to use, powerful and modular Content Management System built with Codeigniter 4. More details at https://kitgum.org
 
 ## Contributing
 
