@@ -24,6 +24,8 @@ return array(
     'Kint\\' => array($vendorDir . '/kint-php/kint/src'),
     'Firebase\\JWT\\' => array($vendorDir . '/firebase/php-jwt/src'),
     'Complex\\' => array($vendorDir . '/markbaker/complex/classes/src'),
+    'CodeIgniter\\Shield\\' => array($vendorDir . '/codeigniter4/shield/src'),
+    'CodeIgniter\\Settings\\' => array($vendorDir . '/codeigniter4/settings/src'),
     'CodeIgniter\\' => array($vendorDir . '/codeigniter4/framework/system'),
     'Brick\\Math\\' => array($vendorDir . '/brick/math/src'),
 );

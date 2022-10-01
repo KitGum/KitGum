@@ -12,6 +12,8 @@ class ComposerStaticInit6eec8cef75d4f02f2e5a56093f4821a1
         '2cffec82183ee1cea088009cef9a6fc3' => __DIR__ . '/..' . '/ezyang/htmlpurifier/library/HTMLPurifier.composer.php',
         '3917c79c5052b270641b5a200963dbc2' => __DIR__ . '/..' . '/kint-php/kint/init.php',
         'e39a8b23c42d4e1452234d762b03835a' => __DIR__ . '/..' . '/ramsey/uuid/src/functions.php',
+        '3f21dc9c7942b4b08e22c921761edb59' => __DIR__ . '/..' . '/codeigniter4/shield/src/Helpers/auth_helper.php',
+        'd769f6a3ea016e6093cedc85aa1e205d' => __DIR__ . '/..' . '/codeigniter4/shield/src/Helpers/email_helper.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -62,6 +64,8 @@ class ComposerStaticInit6eec8cef75d4f02f2e5a56093f4821a1
         'C' => 
         array (
             'Complex\\' => 8,
+            'CodeIgniter\\Shield\\' => 19,
+            'CodeIgniter\\Settings\\' => 21,
             'CodeIgniter\\' => 12,
         ),
         'B' => 
@@ -144,6 +148,14 @@ class ComposerStaticInit6eec8cef75d4f02f2e5a56093f4821a1
         array (
             0 => __DIR__ . '/..' . '/markbaker/complex/classes/src',
         ),
+        'CodeIgniter\\Shield\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/codeigniter4/shield/src',
+        ),
+        'CodeIgniter\\Settings\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/codeigniter4/settings/src',
+        ),
         'CodeIgniter\\' => 
         array (
             0 => __DIR__ . '/..' . '/codeigniter4/framework/system',
@@ -167,6 +179,7 @@ class ComposerStaticInit6eec8cef75d4f02f2e5a56093f4821a1
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'ReturnTypeWillChange' => __DIR__ . '/..' . '/symfony/polyfill-php81/Resources/stubs/ReturnTypeWillChange.php',
+        'Stringable' => __DIR__ . '/..' . '/myclabs/php-enum/stubs/Stringable.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

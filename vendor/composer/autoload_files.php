@@ -11,4 +11,6 @@ return array(
     '2cffec82183ee1cea088009cef9a6fc3' => $vendorDir . '/ezyang/htmlpurifier/library/HTMLPurifier.composer.php',
     '3917c79c5052b270641b5a200963dbc2' => $vendorDir . '/kint-php/kint/init.php',
     'e39a8b23c42d4e1452234d762b03835a' => $vendorDir . '/ramsey/uuid/src/functions.php',
+    '3f21dc9c7942b4b08e22c921761edb59' => $vendorDir . '/codeigniter4/shield/src/Helpers/auth_helper.php',
+    'd769f6a3ea016e6093cedc85aa1e205d' => $vendorDir . '/codeigniter4/shield/src/Helpers/email_helper.php',
 );

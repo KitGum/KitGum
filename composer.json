@@ -4,6 +4,7 @@
         "tatter/alerts": "^2.1",
         "phpoffice/phpspreadsheet": "^1.23",
         "firebase/php-jwt": "^6.2",
-        "michalsn/codeigniter4-uuid": "^1.0"
+        "michalsn/codeigniter4-uuid": "^1.0",
+        "codeigniter4/shield": "dev-develop"
     }
 }
