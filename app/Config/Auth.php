@@ -5,9 +5,6 @@ declare(strict_types=1);
 namespace Config;
 
 use CodeIgniter\Shield\Config\Auth as ShieldAuth;
-
-
-use CodeIgniter\Config\BaseConfig;
 use CodeIgniter\Shield\Authentication\Actions\ActionInterface;
 use CodeIgniter\Shield\Authentication\AuthenticatorInterface;
 use CodeIgniter\Shield\Authentication\Authenticators\AccessTokens;

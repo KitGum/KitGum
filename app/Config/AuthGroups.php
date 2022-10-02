@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace Config;
 
-use CodeIgniter\Config\BaseConfig;
+use CodeIgniter\Shield\Config\AuthGroups as ShieldAuthGroups;
 
-class AuthGroups extends BaseConfig
+class AuthGroups extends ShieldAuthGroups
 {
     /**
      * --------------------------------------------------------------------
