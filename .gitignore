@@ -2,8 +2,6 @@
 
 nbproject/
 
-shared/Modules/*
-
 tests/
 
 .gitmodules
