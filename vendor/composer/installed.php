@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => '__root__',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '6eee45adfbed663c8a67f65f695998084b23d4b8',
+        'pretty_version' => 'dev-develop',
+        'version' => 'dev-develop',
+        'reference' => '549a31c9c2c286fadd863afb595306f8a00d790f',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '6eee45adfbed663c8a67f65f695998084b23d4b8',
+            'pretty_version' => 'dev-develop',
+            'version' => 'dev-develop',
+            'reference' => '549a31c9c2c286fadd863afb595306f8a00d790f',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -55,7 +55,7 @@
         'codeigniter4/shield' => array(
             'pretty_version' => 'dev-develop',
             'version' => 'dev-develop',
-            'reference' => '321a5ca965f2be25e90d07163d560ecee5ad3e8b',
+            'reference' => '0cad02f5da55004ee1ee6a1fdbd904883e32e4e3',
             'type' => 'library',
             'install_path' => __DIR__ . '/../codeigniter4/shield',
             'aliases' => array(
@@ -82,9 +82,9 @@
             'dev_requirement' => false,
         ),
         'kint-php/kint' => array(
-            'pretty_version' => '4.2.2',
-            'version' => '4.2.2.0',
-            'reference' => '9230c016c976ff446f0be5cf82272db278344f69',
+            'pretty_version' => '4.2.3',
+            'version' => '4.2.3.0',
+            'reference' => '7601bfd95ccc50a1b903c2764b31d00919e8edd9',
             'type' => 'library',
             'install_path' => __DIR__ . '/../kint-php/kint',
             'aliases' => array(),

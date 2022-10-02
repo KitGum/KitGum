@@ -203,12 +203,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/codeigniter4/shield.git",
-                "reference": "321a5ca965f2be25e90d07163d560ecee5ad3e8b"
+                "reference": "0cad02f5da55004ee1ee6a1fdbd904883e32e4e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/codeigniter4/shield/zipball/321a5ca965f2be25e90d07163d560ecee5ad3e8b",
-                "reference": "321a5ca965f2be25e90d07163d560ecee5ad3e8b",
+                "url": "https://api.github.com/repos/codeigniter4/shield/zipball/0cad02f5da55004ee1ee6a1fdbd904883e32e4e3",
+                "reference": "0cad02f5da55004ee1ee6a1fdbd904883e32e4e3",
                 "shasum": ""
             },
             "require": {
@@ -223,7 +223,7 @@
                 "codeigniter4/framework": "^4.2.3",
                 "mockery/mockery": "^1.0"
             },
-            "time": "2022-09-28T09:37:14+00:00",
+            "time": "2022-10-02T11:20:21+00:00",
             "default-branch": true,
             "type": "library",
             "installation-source": "dist",
@@ -398,17 +398,17 @@
         },
         {
             "name": "kint-php/kint",
-            "version": "4.2.2",
-            "version_normalized": "4.2.2.0",
+            "version": "4.2.3",
+            "version_normalized": "4.2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kint-php/kint.git",
-                "reference": "9230c016c976ff446f0be5cf82272db278344f69"
+                "reference": "7601bfd95ccc50a1b903c2764b31d00919e8edd9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kint-php/kint/zipball/9230c016c976ff446f0be5cf82272db278344f69",
-                "reference": "9230c016c976ff446f0be5cf82272db278344f69",
+                "url": "https://api.github.com/repos/kint-php/kint/zipball/7601bfd95ccc50a1b903c2764b31d00919e8edd9",
+                "reference": "7601bfd95ccc50a1b903c2764b31d00919e8edd9",
                 "shasum": ""
             },
             "require": {
@@ -426,7 +426,7 @@
                 "kint-php/kint-helpers": "Provides extra helper functions",
                 "kint-php/kint-twig": "Provides d() and s() functions in twig templates"
             },
-            "time": "2022-09-24T10:11:09+00:00",
+            "time": "2022-10-01T20:16:33+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -460,7 +460,7 @@
             ],
             "support": {
                 "issues": "https://github.com/kint-php/kint/issues",
-                "source": "https://github.com/kint-php/kint/tree/4.2.2"
+                "source": "https://github.com/kint-php/kint/tree/4.2.3"
             },
             "install-path": "../kint-php/kint"
         },
