@@ -7,3 +7,8 @@ shared/Modules/*
 tests/
 
 .gitmodules
+
+writable/session/*
+writable/cache/*
+writable/debugbar/*
+writable/logs/*
