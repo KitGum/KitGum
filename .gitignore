@@ -2,7 +2,7 @@
 
 nbproject/
 
-shared/Modules/
+shared/Modules/*
 
 tests/
 
